@@ -1,0 +1,13 @@
+FullStackApp
+
+
+Serverside
+
+Step 1:-Install the 1)package.json,2)Express ,3)graphql,4)Express-graphql
+  cmd:npm init.
+  cmd:npm install express.
+  cmd:npm install graphql.
+  cmd:npm install express-graphql.
+  
+  
+  
